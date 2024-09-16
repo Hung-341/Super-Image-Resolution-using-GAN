@@ -3,12 +3,6 @@
 
 This project implements a GAN-based Image Super Resolution model. The architecture is based on the combination of a Generator and a Discriminator that work together to produce high-resolution images from low-resolution inputs.
 
-## Project Contributors
-- **Hung Le**
-- **Khoa Le**
-- **Hung Thinh**
-- **Dung Nguyen**
-
 ## Project Structure
 
 - **Model Components:**
@@ -90,6 +84,12 @@ This project implements a GAN-based Image Super Resolution model. The architectu
   ax2.imshow(reference_image)
   ax3.imshow(matched_image)
   ```
+  
+## Project Contributors
+- **Hung Le**
+- **Khoa Le**
+- **Hung Thinh**
+- **Dung Nguyen**
 
 ## License
 
